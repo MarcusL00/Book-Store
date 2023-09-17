@@ -1,0 +1,14 @@
+C:\Users\Marcus\source\repos\Morsecode translation\BookShop\BookShop\bin\Debug\net7.0\BookShop.exe
+C:\Users\Marcus\source\repos\Morsecode translation\BookShop\BookShop\bin\Debug\net7.0\BookShop.deps.json
+C:\Users\Marcus\source\repos\Morsecode translation\BookShop\BookShop\bin\Debug\net7.0\BookShop.runtimeconfig.json
+C:\Users\Marcus\source\repos\Morsecode translation\BookShop\BookShop\bin\Debug\net7.0\BookShop.dll
+C:\Users\Marcus\source\repos\Morsecode translation\BookShop\BookShop\bin\Debug\net7.0\BookShop.pdb
+C:\Users\Marcus\source\repos\Morsecode translation\BookShop\BookShop\obj\Debug\net7.0\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\source\repos\Morsecode translation\BookShop\BookShop\obj\Debug\net7.0\BookShop.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\Morsecode translation\BookShop\BookShop\obj\Debug\net7.0\BookShop.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\Morsecode translation\BookShop\BookShop\obj\Debug\net7.0\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\Morsecode translation\BookShop\BookShop\obj\Debug\net7.0\BookShop.dll
+C:\Users\Marcus\source\repos\Morsecode translation\BookShop\BookShop\obj\Debug\net7.0\refint\BookShop.dll
+C:\Users\Marcus\source\repos\Morsecode translation\BookShop\BookShop\obj\Debug\net7.0\BookShop.pdb
+C:\Users\Marcus\source\repos\Morsecode translation\BookShop\BookShop\obj\Debug\net7.0\BookShop.genruntimeconfig.cache
+C:\Users\Marcus\source\repos\Morsecode translation\BookShop\BookShop\obj\Debug\net7.0\ref\BookShop.dll
